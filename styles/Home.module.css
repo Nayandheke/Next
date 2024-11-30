@@ -1,0 +1,24 @@
+.container {
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .link {
+    color: black;
+    text-decoration: underline;
+  }
+  
+  .h1 {
+    color: #333;
+  }
+  
+  .ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .li {
+    margin: 10px 0;
+  }
+  
